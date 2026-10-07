@@ -23,4 +23,4 @@ This is the Express app example on [Hostless](https://hostless-express.hostless.
 #### Example project
 An example project is hosted on [https://hostless-express.hostless.app/](https://hostless-express.hostless.app/)
 
-<!-- Git trigger canary 2026-10-07: burst 1 -->
+<!-- Git trigger canary 2026-10-07: burst 2 -->
